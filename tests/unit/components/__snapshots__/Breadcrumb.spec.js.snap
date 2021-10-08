@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Breadcrumb should display workout details breadcrumb 1`] = `
+Array [
+  Object {
+    "name": "container",
+    "title": "Workouts",
+  },
+  Object {
+    "name": "workout",
+    "title": "test workout",
+  },
+]
+`;

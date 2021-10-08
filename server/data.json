@@ -1,0 +1,90 @@
+{
+  "workouts": [
+    {
+      "id": "097e3638-2eda-4bf1-860d-b92d243e2f31",
+      "name": "Yoga"
+    },
+    {
+      "id": "518fce84-0450-4ef1-bd26-91e667ec4973",
+      "name": "Fitness"
+    },
+    {
+      "id": "467107f7-d634-478f-86b8-676187545fb2",
+      "name": "Swimming"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "6c77eeb6-ddd9-418f-ab74-32e65b40dca4",
+      "name": "Mountain Pose",
+      "workoutId": "097e3638-2eda-4bf1-860d-b92d243e2f31",
+      "completed": false
+    },
+    {
+      "id": "160d387f-1636-438d-992a-e119fcfd1345",
+      "name": "Raised Arms Pose",
+      "workoutId": "097e3638-2eda-4bf1-860d-b92d243e2f31",
+      "completed": false
+    },
+    {
+      "id": "c2f0e71e-0fcc-4b0c-ac2d-2c4f3730fd6b",
+      "name": "Standing Forward Bend",
+      "workoutId": "097e3638-2eda-4bf1-860d-b92d243e2f31",
+      "completed": true
+    },
+    {
+      "id": "e81e3cd6-c430-41a3-9b8a-9d186a743251",
+      "name": "Garland Pose",
+      "workoutId": "097e3638-2eda-4bf1-860d-b92d243e2f31",
+      "completed": true
+    },
+    {
+      "id": "7c957524-8e9a-4c50-89dc-33befde4aef2",
+      "name": "Lunge",
+      "workoutId": "097e3638-2eda-4bf1-860d-b92d243e2f31",
+      "completed": false
+    },
+    {
+      "id": "ba08551c-79ba-42da-94c2-b6d7b6b729d3",
+      "name": "Plank",
+      "workoutId": "097e3638-2eda-4bf1-860d-b92d243e2f31",
+      "completed": false
+    },
+    {
+      "id": "070adf42-0854-442e-995a-75e699d0496c",
+      "name": "Walking",
+      "workoutId": "518fce84-0450-4ef1-bd26-91e667ec4973",
+      "completed": false
+    },
+    {
+      "id": "8f32859e-2f2c-4044-a1e2-4c003ac4515c",
+      "name": "Interval training",
+      "workoutId": "518fce84-0450-4ef1-bd26-91e667ec4973",
+      "completed": false
+    },
+    {
+      "id": "10eacf68-1949-4591-b952-f5c0d5f237a6",
+      "name": "Squats",
+      "workoutId": "518fce84-0450-4ef1-bd26-91e667ec4973",
+      "completed": false
+    },
+    {
+      "id": "999d741e-7c18-457e-ab39-00a407cc6761",
+      "name": "Push-ups",
+      "workoutId": "518fce84-0450-4ef1-bd26-91e667ec4973",
+      "completed": false
+    },
+    {
+      "id": "a03862a6-77ef-4799-8042-c48b227ae2ad",
+      "name": "Water running",
+      "workoutId": "467107f7-d634-478f-86b8-676187545fb2",
+      "completed": true
+    },
+    {
+      "id": "cd397ce8-1105-4efd-8b31-d77980c47286",
+      "name": "Water crunches",
+      "workoutId": "467107f7-d634-478f-86b8-676187545fb2",
+      "completed": true
+    }
+  ]
+}

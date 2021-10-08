@@ -1,0 +1,4 @@
+1. Pull out styles from components into separate files with using pre-processors.
+2. Think of how to show spinner for row based operations (f.e. complete, delete, etc.).
+3. Improve verbosity of errors messages.
+4. Increase test coverage.
